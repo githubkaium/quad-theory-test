@@ -16,11 +16,11 @@ export default function Home() {
         <Items />
       </div>
       <div className="py-2">
-        <div className="flex justify-between items-center mr-20 ml-12 p-1">
+        <div className="flex justify-between items-center mx-20 p-1">
           <div>
             <h2>Recommended</h2>
           </div>
-          <div>
+          <div className="text-orange-600">
             <button>AddMore</button>
           </div>
         </div>
