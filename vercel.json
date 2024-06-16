@@ -1,8 +1,10 @@
 {
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/node"
+  "build": {
+    "env": {
+      "BUN_ENV": "production"
     }
-  ]
+  },
+  "framework": "nextjs",
+  "buildCommand": "bun build",
+  "outputDirectory": ".next"
 }
