@@ -1,6 +1,6 @@
 ## How to run the code?
 
-First, Download or Clone the repository [git@github.com:githubkaium/quad-theory-test.git] (git@github.com:githubkaium/quad-theory-test.git) from the github link.
+First, Download or Clone the repository [https://git@github.com:githubkaium/quad-theory-test.git] (git@github.com:githubkaium/quad-theory-test.git) from the github link.
 
 Then, run the development server:
 
