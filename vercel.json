@@ -5,6 +5,5 @@
     }
   },
   "framework": "nextjs",
-  "buildCommand": "bun run build",
-  "outputDirectory": ".next"
+  "buildCommand": "bun run build"
 }
